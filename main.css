@@ -1,4 +1,4 @@
-body{
+.container{
     background-color: aquamarine;
 }
 
@@ -7,3 +7,5 @@ h1{
     color: #333333;
     text-align: center;
 }
+
+
